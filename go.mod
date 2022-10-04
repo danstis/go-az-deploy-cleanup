@@ -1,3 +1,3 @@
-module github.com/danstis/gotemplate
+module github.com/danstis/go-az-deploy-cleanup
 
-go 1.18
+go 1.19

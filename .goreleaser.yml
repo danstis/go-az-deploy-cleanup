@@ -13,7 +13,7 @@ builds:
       - windows
       - darwin
     ldflags:
-      - -s -w -X github.com/danstis/gotemplate/internal/version.Version={{.Version}}
+      - -s -w -X github.com/danstis/go-az-deploy-cleanup/internal/version.Version={{.Version}}
     binary: example
 archives:
   - replacements:
